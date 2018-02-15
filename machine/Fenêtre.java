@@ -1,4 +1,4 @@
-package couleur;
+package machine;
 
 import java.awt.Button;
 import java.awt.Checkbox;

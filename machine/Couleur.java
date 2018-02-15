@@ -1,4 +1,4 @@
-package couleur;
+package machine;
 
 import java.util.ArrayList;
 import java.util.List;
